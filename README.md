@@ -6,7 +6,7 @@ A beautiful, fast, and fully functional **Online Color Picker & Palette Generato
 
 No build tools required — just open `index.html` and it works instantly!
 
-![Color Picker Preview](https://via.placeholder.com/800x400/10b981/ffffff?text=ColorPickerTool)
+![Color Picker Preview](https://color-picker-website.onrender.com/)
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ No build tools required — just open `index.html` and it works instantly!
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployed-link.onrender.com)  
+[View Live Demo](https://color-picker-website.onrender.com/)  
 *(Replace with your actual Render or GitHub Pages link after deployment)*
 
 ## 📂 Project Structure
@@ -40,27 +40,22 @@ color-picker-website/
 
    🌐 Deploy on GitHub Pages (Free)
 
-Push your code to GitHub
+Push code to GitHub
 Go to Repository Settings → Pages
 Under "Source", select Deploy from a branch
 Choose main branch and / (root) folder
 Click Save
 
 Site will be live at: https://color-picker-website.onrender.com/
-🚀 Deploy on Render (Recommended)
 
-Rename your file to index.html
-Push to GitHub
+
+🚀 Deploy on Render 
+
 Create a new Static Site on Render.com
 Use these settings:
 Root Directory: (leave empty)
 Build Command: (leave empty)
 Publish Directory: .
-
-Add a Redirect/Rewrite rule:
-Source: /*
-Destination: /index.html
-Action: Rewrite
 
 
 📄 License
